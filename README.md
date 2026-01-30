@@ -74,7 +74,7 @@
       alt="nodejs" width="40" height="40" />
   </a>
    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/svg/342062/next-js"
+    <img src="https://www.svgrepo.com/show/342062/next-js.svg"
       alt="nodejs" width="40" height="40" />
   </a"
       alt="nodejs" width="40" height="40" />
